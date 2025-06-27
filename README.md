@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Sama Essam</h1>
 
-<!--
-**Sama237-hub/Sama237-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Data Science & Data Engineering Intern • 🐍 Python Enthusiast • 🧠 Lifelong Learner
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+- 🔭 I'm currently working on data science & engineering projects using Python, Pandas, and SQL.
+- 📊 Passionate about building smart dashboards and analyzing complex datasets.
+- 🧠 Always learning something new — currently diving into data pipelines.
+- ✨ I love organizing my projects and making clean, understandable code.
+
+---
+
+### 🛠 Tech Stack
+
+```python
+Languages:        Python | SQL | Bash  
+Data Tools:       Jupyter | Pandas | NumPy | Matplotlib | Seaborn | Power BI  
+Databases:        MySQL | PostgreSQL  
+Data Engineering: Airflow (basic), APIs  
+Version Control:  Git & GitHub  
+Others:           VS Code | Linux basics
