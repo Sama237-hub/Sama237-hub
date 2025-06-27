@@ -20,6 +20,13 @@
 </div>
 
 ###
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Sama237-hub/Sama237-hub/output/snake.svg" alt="Snake animation" />
+
+###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
