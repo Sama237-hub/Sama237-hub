@@ -57,7 +57,3 @@
 <p align="left">•	📧 Email: <br>samaessam752@gmail.com<br>	•	💼 LinkedIn:<br>https://www.linkedin.com/in/sama-essam-208282299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app</p>
 
 ###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sama237-hub/Sama237-hub/output/snake.svg" alt="Snake animation" />
-###
